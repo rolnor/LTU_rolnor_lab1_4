@@ -1,0 +1,8 @@
+What did you learn? What did you know already?
+First time using UE. Learned to setup of UE and Git and how to creata a project. 
+
+What was difficult in the lab? How did you overcome it?
+Straightforward lab with good instructions.
+
+How can the lab be improved?
+-
